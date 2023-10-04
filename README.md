@@ -1,1 +1,1 @@
-github/../environment.yml
+.github/../environment.yml
